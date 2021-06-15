@@ -105,4 +105,4 @@ dist
 
 .idea/
 
-/token.txt
+/.env
