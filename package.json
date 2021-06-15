@@ -1,0 +1,19 @@
+{
+  "name": "judge-cid",
+  "version": "1.0.0",
+  "description": "A discord.js bot which simulates the Judge/Law system from Final Fantasy Tactics Advance.\r More to come!",
+  "main": "main-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nosrick/judge-cid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nosrick/judge-cid/issues"
+  },
+  "homepage": "https://github.com/Nosrick/judge-cid#readme"
+}
