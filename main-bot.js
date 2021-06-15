@@ -4,6 +4,8 @@ const client = new Discord.Client();
 const dotenv = require('dotenv');
 dotenv.config();
 
+const config = require('./config.json');
+
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
 });
